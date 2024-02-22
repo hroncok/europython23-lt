@@ -1,6 +1,4 @@
-## PyCon PL 2022: Making sudo pip safe again
-
-See the slides live at https://hroncok.cz/pyconpl22/
+## EuroPython 23: Fedora Loves Python
 
 Consider the slides content Public Domain,
 except for the code examples which are [Python-licensed](https://docs.python.org/3.11/license.html)
